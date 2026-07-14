@@ -48,6 +48,8 @@
 
 ### התקנה
 
+<div dir="ltr">
+
 ```bash
 # YOLO
 curl -fsSL [https://opencode.ai/install](https://opencode.ai/install) | bash
@@ -72,12 +74,12 @@ nix run nixpkgs#opencode           # or github:anomalyco/opencode לענף הפ�
 
 OpenCode זמין גם כאפליקציית שולחן עבודה (Desktop). ניתן להוריד אותה ישירות מ[עמוד הגרסאות (Releases)](https://github.com/anomalyco/opencode/releases) או מהקישור [opencode.ai/download](https://opencode.ai/download).
 
-| מערכת הפעלה | קובץ להורדה |
+| Platform | Download |
 | --- | --- |
 | macOS (Apple Silicon) | `opencode-desktop-mac-arm64.dmg` |
 | macOS (Intel) | `opencode-desktop-mac-x64.dmg` |
 | Windows | `opencode-desktop-windows-x64.exe` |
-| Linux | קובצי `.deb`, `.rpm`, או `.AppImage` |
+| Linux | `.deb`, `.rpm`, or `.AppImage` |
 
 ```bash
 # macOS (Homebrew)
@@ -135,4 +137,3 @@ OpenCode כולל שני סוכנים מובנים שניתן לעבור בינ�
 ---
 
 **הצטרף לקהילה שלנו** [Discord](https://discord.gg/opencode) | [X.com](https://x.com/opencode)
-  </div>
