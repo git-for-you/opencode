@@ -67,8 +67,10 @@ nix run nixpkgs#opencode           # or github:anomalyco/opencode לענף הפ�
 
 ```
 
-<div dir="rtl">> [!TIP]
-> יש להסיר גרסאות ישנות יותר מ-0.1.x לפני ההתקנה.</div>
+<div dir="rtl">
+  > [!TIP]
+> יש להסיר גרסאות ישנות יותר מ-0.1.x לפני ההתקנה.
+</div>
 
 ### אפליקציית דסקטופ (BETA)
 
